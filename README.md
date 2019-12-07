@@ -1,2 +1,0 @@
-# portfolioIndex
-Development portfolio index
